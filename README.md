@@ -5,7 +5,7 @@
 
 
 
-<img src="https://github.com/Kanvas33/Kanvas33/assets/49963997/c294ab3b-703b-4ae7-a213-a35cdb86f20e" width="800" height="100">
+<img src="https://github.com/Kanvas33/Kanvas33/assets/49963997/c294ab3b-703b-4ae7-a213-a35cdb86f20e" width="1000" height="500">
 
 
 
