@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Jefferson</h1>
 <h3 align="center"> I am a curious individual with a passion for technology, with nearly a decade of experience in the technology sector. In 2022, I graduated with a degree in Software Development, and currently, I am in the process of transitioning my career into Data Analytics. Since embarking on my upskilling journey, I have had the opportunity to earn several certificates and work on a few projects that provide me with the necessary skills to embark on this new career path. Furthermore, I am continuously studying and working towards acquiring additional certificates in Analytics and Python. This ongoing pursuit allows me to deepen my knowledge and enhance my efficiency in data analysis. </h3>
 
+![819e6ef27c2f13b211813f61ee68b201_w200](https://github.com/Kanvas33/Kanvas33/assets/49963997/f3da72f9-0c87-4b21-ad4e-b3f6d5ad3fb7)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanvas33&label=Profile%20views&color=0e75b6&style=flat" alt="kanvas33" /> </p>
 
 - 🌱 I’m currently learning **about data analytics and data visualization!**
