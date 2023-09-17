@@ -9,7 +9,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanvas33&label=Profile%20views&color=0e75b6&style=flat" alt="kanvas33" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kanvas33&label=Profile%20views&color=0e75b6&style=flat" alt="kanvas33" /> </p>
 
 - 🌱 I’m currently learning **about data analytics and data visualization!**
 
