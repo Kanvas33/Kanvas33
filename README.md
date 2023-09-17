@@ -4,7 +4,9 @@
 <h3 align="center"> I am a curious individual with a passion for technology, with nearly a decade of experience in the technology sector. In 2022, I graduated with a degree in Software Development, and currently, I am in the process of transitioning my career into Data Analytics. Since embarking on my upskilling journey, I have had the opportunity to earn several certificates and work on a few projects that provide me with the necessary skills to embark on this new career path. Furthermore, I am continuously studying and working towards acquiring additional certificates in Analytics and Python. This ongoing pursuit allows me to deepen my knowledge and enhance my efficiency in data analysis. </h3>
 
 
-![699e4762225981 5a89af14d87a9](https://github.com/Kanvas33/Kanvas33/assets/49963997/c294ab3b-703b-4ae7-a213-a35cdb86f20e)
+
+<img src="https://github.com/Kanvas33/Kanvas33/assets/49963997/c294ab3b-703b-4ae7-a213-a35cdb86f20e" width="200" height="100">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanvas33&label=Profile%20views&color=0e75b6&style=flat" alt="kanvas33" /> </p>
