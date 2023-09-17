@@ -28,11 +28,7 @@
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="40" height="40"/> </a>
 </p>
 
-             />
+             
           
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanvas33&show_icons=true&locale=en&layout=compact" alt="kanvas33" /></p>
-
          
-          
-      https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg       
-          
