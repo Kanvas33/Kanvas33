@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Kanvas33/Kanvas33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Jefferson</h1>
+<h3 align="center"> I am a curious individual with a passion for technology, with nearly a decade of experience in the technology sector. In 2022, I graduated with a degree in Software Development, and currently, I am in the process of transitioning my career into Data Analytics. Since embarking on my upskilling journey, I have had the opportunity to earn several certificates that provide me with the necessary skills to embark on this new career path. Furthermore, I am continuously studying and working towards acquiring additional certificates in Analytics and Python. This ongoing pursuit allows me to deepen my knowledge and enhance my efficiency in data analysis. </h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanvas33&label=Profile%20views&color=0e75b6&style=flat" alt="kanvas33" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Always learning about data analytics, and data visualization!**
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/jeff-df/](https://www.linkedin.com/in/jeff-df/)
+
+- 📫 How to reach me **jeff.farias@gmailcom**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jeff-df/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeff-df/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanvas33&show_icons=true&locale=en&layout=compact" alt="kanvas33" /></p>
