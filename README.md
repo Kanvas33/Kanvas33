@@ -7,9 +7,10 @@
 
 <img src="https://github.com/Kanvas33/Kanvas33/assets/49963997/c294ab3b-703b-4ae7-a213-a35cdb86f20e" width="1000" height="500">
 
-<p> 
+<p> </p>
 
-</p>
+<p> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanvas33&label=Profile%20views&color=0e75b6&style=flat" alt="kanvas33" /> </p>
 
