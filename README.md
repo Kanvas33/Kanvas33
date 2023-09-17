@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jeff-df/](https://www.linkedin.com/in/jeff-df/)
 
-- 📫 How to reach me **jeff.farias@gmailcom**
+- 📫 How to reach me: **jeff.farias@gmailcom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
