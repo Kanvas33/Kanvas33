@@ -3,9 +3,10 @@
 <h1 align="center">Hi 👋, I'm Jefferson</h1>
 <h3 align="center"> I am a curious individual with a passion for technology, with nearly a decade of experience in the technology sector. I graduated with a degree in Software Development, but I found my passion in analytics. Since embarking on my upskilling journey, I have had the opportunity to earn several certificates and work on a few projects that provide me with the necessary skills to embark on this career path. Furthermore, I am continuously studying and working towards acquiring additional certificates in Analytics and Python. This ongoing pursuit allows me to deepen my knowledge and enhance my efficiency in data analysis. </h3>
 
+![analytics_gif](https://github.com/Kanvas33/Kanvas33/blob/main/analytics_gif.gif)
 
 
-<img src="https://github.com/Kanvas33/Kanvas33/assets/49963997/c294ab3b-703b-4ae7-a213-a35cdb86f20e" width="1000" height="500">
+<!--<img src="https://github.com/Kanvas33/Kanvas33/assets/49963997/c294ab3b-703b-4ae7-a213-a35cdb86f20e" width="1000" height="500">-->
 
 <p> </p>
 
