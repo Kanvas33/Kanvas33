@@ -36,8 +36,10 @@
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/> </a>
 <a href="https://https://www.crummy.com/software/BeautifulSoup//" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGuutC_HUqpO8o5z7HxMEdaVhjdzFC3Tf6zw&usqp=CAU" width=40" height="40"/> </a>
+<a href="https://geopandas.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1298690508106215431/jB-srHVX_400x400.jpg" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/qrugo0ng5eo6xmzweail" width="50" height="50"/> </a>
 
-           
+
           
           
 </p>         
